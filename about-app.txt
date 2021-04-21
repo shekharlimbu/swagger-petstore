@@ -1,0 +1,1 @@
+This program takes SwaggerJSON as input and outputs all end points present in Swagger.
